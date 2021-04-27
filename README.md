@@ -1,5 +1,5 @@
 ### Hi 👋
-I'm Zara and I am a FE Developer at Gene Commerce in Brighton. 
+I'm Zara and I am a FE Developer in Sweden. 
 
 <!--
 **zarasyversen/zarasyversen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
